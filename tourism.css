@@ -1,0 +1,53 @@
+
+.bg-contener{
+    background-image: url(https://lp-cms-production.imgix.net/image_browser/Querim_beach_Goa.jpg?auto=format&fit=crop&sharp=10&vib=20&ixlib=react-8.6.4&w=850&q=23&dpr=4);
+    
+    height: 100vh;
+    background-size: cover;
+   
+
+
+}
+
+.heading{
+     color: black;
+    font-family: roboto;
+    font-size: 80px;
+    font-style: italic;
+    text-decoration: underline;
+
+
+
+}
+
+.paragraph{
+    color: gray;
+    font-size: large;
+   
+}
+
+.para{
+    color: darkgreen;
+    font-style: oblique;
+    text-decoration: underline;
+}
+
+
+.card{
+    text-align: center;
+    background-color: white;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    padding: 10px;
+
+}
+
+.button{
+    height: 36px;
+    width: 138px;
+    background-color: #25b1cc;
+    color: white;
+    border-radius: 20px;
+    border-width: 0px;
+
+}
